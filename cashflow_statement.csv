@@ -1,0 +1,37 @@
+month,type,description,amount,cash_balance
+January,income,Rental Income - Tower A,920000,3200000
+January,income,Rental Income - Tower B,450000,3200000
+January,salary,Employee Salaries,320000,3200000
+January,salary,Management Bonuses,80000,3200000
+January,expense,Maintenance,95000,3200000
+January,expense,Utilities,42000,3200000
+January,expense,Insurance,28000,3200000
+February,income,Rental Income - Tower A,920000,3100000
+February,income,Rental Income - Tower B,440000,3100000
+February,salary,Employee Salaries,320000,3100000
+February,salary,Management Bonuses,80000,3100000
+February,expense,Maintenance,110000,3100000
+February,expense,Utilities,38000,3100000
+February,expense,Insurance,28000,3100000
+March,income,Rental Income - Tower A,950000,3400000
+March,income,Rental Income - Tower B,460000,3400000
+March,salary,Employee Salaries,320000,3400000
+March,salary,Management Bonuses,80000,3400000
+March,expense,Maintenance,88000,3400000
+March,expense,Utilities,41000,3400000
+March,expense,Insurance,28000,3400000
+April,income,Rental Income - Tower A,910000,3050000
+April,income,Rental Income - Tower B,430000,3050000
+April,salary,Employee Salaries,320000,3050000
+April,salary,Management Bonuses,80000,3050000
+April,expense,Maintenance,102000,3050000
+April,expense,Utilities,39000,3050000
+April,expense,Insurance,28000,3050000
+May,income,Rental Income - Tower A,930000,2100000
+May,income,Rental Income - Tower B,420000,2100000
+May,salary,Employee Salaries,320000,2100000
+May,salary,Management Bonuses,80000,2100000
+May,expense,Maintenance,95000,2100000
+May,expense,Utilities,44000,2100000
+May,expense,Insurance,28000,2100000
+

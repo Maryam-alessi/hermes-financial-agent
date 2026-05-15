@@ -48,6 +48,12 @@ CFO: Does the 2.1M liquidity cover May salaries?
 
 Hermes: YES. Liquidity available: 2,100,000 SAR. May salaries: 400,000 SAR. Since 2,100,000 > 400,000, the liquidity covers May salaries.
 
+## Example 2
+
+CFO: What is the net cash position after salaries in April and does it indicate financial health?
+
+Hermes: The net cash position after salaries in April is 2,650,000 SAR as per the knowledge base "Remaining After Salaries" figure. Insufficient data in knowledge base to assess financial health.
+
 ## Knowledge Base
 
 The CSV file contains 5 months of financial data:
